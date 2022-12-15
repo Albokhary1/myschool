@@ -14,8 +14,8 @@ body{
   font-family: 'Cairo', sans-serif;
   background-color: #673ab7;
   background-image: url(../images/student1.jpg);
-  background-position: center;
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   height: 130vh;
   width: 100%;
