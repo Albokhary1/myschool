@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font: inherit;
   box-sizing: border-box;
 	vertical-align: baseline;
 }
@@ -120,8 +119,8 @@ a:hover{
   color: white;
   font-size: 18px;
   cursor: pointer;
-  padding: 10px;
-  margin: 0 0 0 0;
+  padding: 5px;
+  margin: 0;
 }
 @media screen 
 and (max-width: 600px) {
@@ -146,6 +145,11 @@ and (max-width: 600px) {
   }
   .dropdown {
     height: 7vh;
+  }
+  .fa-solid{
+    color: white;
+    width:auto;
+    margin: auto;
   }
 }
 
